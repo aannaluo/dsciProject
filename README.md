@@ -1,4 +1,5 @@
-# dsciProject
+# Data Science Final Project
+
 Project created within a group of 4, using R, to analyze if there is a correlation between voting preference and annual income.
 
 ## Introduction
